@@ -1,0 +1,26 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "This is my journey of learning React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonyArya009/Learning_React.git"
+  },
+  "keywords": [
+    "Learn",
+    "React"
+  ],
+  "author": "Tony Arya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyArya009/Learning_React/issues"
+  },
+  "homepage": "https://github.com/tonyArya009/Learning_React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  }
+}
