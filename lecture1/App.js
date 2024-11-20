@@ -1,4 +1,6 @@
-           // Om Namaya shivaye using React
+       import React from "react";
+       import ReactDOM from "react-dom/client";
+       // Om Namaya shivaye using React
         // const heading=React.createElement('h1',
         //     {id:"heading", xyz:"abc"},
         //     "Om namaya shivaaye"
@@ -29,7 +31,7 @@
         const parent=React.createElement('div',
             {id:'parent'},[
             React.createElement('div',{id:'child1'},
-                [React.createElement('h1',{},"i am h1 tag"),React.createElement('h2',{},"i am h2 tag")]
+                [React.createElement('h1',{},"Everyone bow to shiva"),React.createElement('h2',{},"i am h2 tag")]
             ),
             React.createElement('div',{id:'child2'},
                 [React.createElement('h1',{},"i am h1 tag but cooler"),React.createElement('h2',{},"i am h2 tag")])
